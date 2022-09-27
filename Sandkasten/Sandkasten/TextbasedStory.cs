@@ -4,6 +4,11 @@
     {
         static void Main(string[] args)
         {
+            
+            //Änder die Schrift Farbe in Console
+            Console.ForegroundColor = ConsoleColor.Green; 
+            
+            
             Console.WriteLine("Hello World!");
             Console.WriteLine("Are you Ready? YES/NO");
 
