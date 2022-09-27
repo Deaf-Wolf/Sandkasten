@@ -1,0 +1,15 @@
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\bin\Debug\net6.0\Sandkasten.exe
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\bin\Debug\net6.0\Sandkasten.deps.json
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\bin\Debug\net6.0\Sandkasten.runtimeconfig.json
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\bin\Debug\net6.0\Sandkasten.dll
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\bin\Debug\net6.0\Sandkasten.pdb
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\obj\Debug\net6.0\Sandkasten.csproj.AssemblyReference.cache
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\obj\Debug\net6.0\Sandkasten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\obj\Debug\net6.0\Sandkasten.AssemblyInfoInputs.cache
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\obj\Debug\net6.0\Sandkasten.AssemblyInfo.cs
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\obj\Debug\net6.0\Sandkasten.csproj.CoreCompileInputs.cache
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\obj\Debug\net6.0\Sandkasten.dll
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\obj\Debug\net6.0\refint\Sandkasten.dll
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\obj\Debug\net6.0\Sandkasten.pdb
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\obj\Debug\net6.0\Sandkasten.genruntimeconfig.cache
+C:\Users\lars.sodomann\source\repos\Sandkasten\Sandkasten\obj\Debug\net6.0\ref\Sandkasten.dll
