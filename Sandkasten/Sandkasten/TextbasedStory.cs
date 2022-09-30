@@ -70,6 +70,9 @@
                 else
                 {
                     Console.WriteLine("Boooommmm, Oh no... We were hit in the engine, looks like our adventure is over.");
+                    //Make the Code wait to end
+                    Console.WriteLine("Press Enter to Exit");
+                    Console.ReadLine();
                     return;
                 }
 
