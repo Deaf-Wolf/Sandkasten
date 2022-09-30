@@ -4,11 +4,11 @@
     {
         static void Main(string[] args)
         {
-            
+
             //Änder die Schrift Farbe in Console
-            Console.ForegroundColor = ConsoleColor.Green; 
-            
-            
+            Console.ForegroundColor = ConsoleColor.Green;
+
+
             Console.WriteLine("Hello World!");
             Console.WriteLine("Are you Ready? YES/NO");
 
@@ -59,19 +59,56 @@
                 Console.Write("X = ");
                 int inputBooster = Convert.ToInt32(Console.ReadLine());
 
-                // Zeig das Rechnenweg mit eingegbenes X an
+                // Zeig das Rechnenweg mit Lösung an
                 Console.WriteLine($"{y} + {x} = {z}");
 
-                string boosterUnlock = (inputBooster == z) ? "whoosh, You sucessfully escaped the Pirates :D" : "Boooommmm, Oh no... We were hit in the engine, looks like our adventure is over.";
 
-                Console.WriteLine(boosterUnlock);
+                if (inputBooster == z)
+                {
+                    Console.WriteLine("whoosh, You sucessfully escaped the Pirates :D");
+                }
+                else
+                {
+                    Console.WriteLine("Boooommmm, Oh no... We were hit in the engine, looks like our adventure is over.");
+                    return;
+                }
 
 
-                Console.WriteLine("To be continued");
+
+
                 break;
 
             }
+            Console.WriteLine("With the escapeBooster, we landed in a another Solar System ");
+            Console.WriteLine(" ");
+            Console.WriteLine(" ");
+            Console.WriteLine("But looks like we are at the Switch System, it has 3 planets.");
+            Console.WriteLine("");
+            Console.WriteLine("Eden Pluto2 Atlantis");
+            Console.WriteLine("Tell me which planet you want to know more:");
+            //Switch und method/class
+            string planet = Console.ReadLine();
 
+
+
+
+            switch (planet)
+            {
+                case "Eden":
+                    Console.WriteLine("Eden, but not Really");
+                    break;
+
+                case "Pluto2":
+                    Console.WriteLine("It´s a Planet, because its bigger that Pluto");
+                    break;
+
+                case "Atlantis":
+                    Console.WriteLine("Think of Venecia, but Worldwide!");
+                    break;
+            }
+
+
+            Console.WriteLine("To be continued");
         }
     }
 }
